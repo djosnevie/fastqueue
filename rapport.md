@@ -19,7 +19,7 @@ L’administrateur a la possibilité d’exporter des rapports préalablement im
 2. **Téléchargement** :
    - Une fois le rapport affiché, cliquez sur le bouton **Télécharger** pour obtenir le rapport au format **Excel**.
 
-![Télécharger le rapport](assets/rapport-2.jpg)
+![Télécharger le rapport](assets/rapport-3.jpg)
 
 ---
 

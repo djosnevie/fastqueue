@@ -1,15 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <title>FastQueue</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="shortcut icon" type="image/svg" href="/assets/icon.svg" />
   <!-- Theme: Simple -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
   <!-- Theme: Simple Dark 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">-->
+  <style>
+    .sidebar>h1 img {
+      max-width: 53%;
+    }
+    .sidebar-nav li.active>a{
+      color: #bd1522!important;
+      border-color: #bd1522!important;
+    }
+  </style>
 
 
 
@@ -18,8 +28,9 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      logo: '/assets/logo.jpg',
+      name: 'FastQueue',
+      logo: '/assets/logo1.svg',
+      auto2top: true,
       loadSidebar: true,
       repo: ''
     }
